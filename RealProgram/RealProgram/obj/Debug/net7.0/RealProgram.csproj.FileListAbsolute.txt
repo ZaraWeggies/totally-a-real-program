@@ -1,0 +1,15 @@
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\bin\Debug\net7.0\RealProgram.exe
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\bin\Debug\net7.0\RealProgram.deps.json
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\bin\Debug\net7.0\RealProgram.runtimeconfig.json
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\bin\Debug\net7.0\RealProgram.dll
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\bin\Debug\net7.0\RealProgram.pdb
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.csproj.AssemblyReference.cache
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.AssemblyInfoInputs.cache
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.AssemblyInfo.cs
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.csproj.CoreCompileInputs.cache
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.dll
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\refint\RealProgram.dll
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.pdb
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\RealProgram.genruntimeconfig.cache
+D:\repos\remove-empty-orgs-from-customer\RealProgram\RealProgram\obj\Debug\net7.0\ref\RealProgram.dll
