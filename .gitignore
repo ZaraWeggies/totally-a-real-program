@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RealProgram/RealProgram/bin/Debug/net6.0/RealProgram.dll
+/RealProgram/RealProgram/bin/Debug/net6.0/RealProgram.pdb
+/RealProgram/RealProgram/obj/Debug/net6.0/RealProgram.csproj.FileListAbsolute.txt
+/RealProgram/RealProgram/obj/Debug/net6.0/RealProgram.dll
+/RealProgram/RealProgram/obj/Debug/net6.0/RealProgram.genruntimeconfig.cache
+/RealProgram/RealProgram/obj/Debug/net6.0/RealProgram.pdb
+/RealProgram/.vs/ProjectEvaluation/realprogram.metadata.v7.bin
+/RealProgram/.vs/ProjectEvaluation/realprogram.projects.v7.bin
+/RealProgram/.vs/RealProgram/DesignTimeBuild/.dtbcache.v2
+/RealProgram/.vs/RealProgram/FileContentIndex/530f0495-5e28-43d2-b8d9-249ecaf8a1f5.vsidx
+/RealProgram/.vs/RealProgram/v17/.futdcache.v2
+/RealProgram/.vs/RealProgram/v17/.suo
